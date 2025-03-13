@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
  src: /assets/img/profile-pic.jpg
- # alt: website picture
+ alt: website picture
 ---
 
 <div id="header" style="width: 105%;">
