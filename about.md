@@ -32,7 +32,7 @@ slug: /about
 	<li>  Email: <a href="mailto:fshao@stu.pku.edu.cn">fshao AT stu.pku.edu.cn </a>
 	</li>
     
-		</li>		
+		
 </ul>
 </font>
 
@@ -55,5 +55,5 @@ slug: /about
  	 <li> Mathematical Analysis I. Fall 2022.  </li> 	
  	 <li> Partial Differential Equations. Fall 2021.  </li> 	 
  </ul>
-</font> -->
+
 <!-- </div> -->
