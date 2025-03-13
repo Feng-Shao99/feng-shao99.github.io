@@ -1,13 +1,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Jiajie Chen | Courant 
-SEOTitle: Jiajie Chen | Courant 
-description: Jiajie Chen | Courant
+title: Feng Shao | PKU
+SEOTitle: Feng Shao | PKU
+description: Feng Shao | PKU
 # >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of the site
-url: "https://jiajiechen94.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+url: "https://feng-shao99.github.io" # the base hostname & protocol for the site
+# og_image: /assets/img/profile-pic.jpg
 # google_analytics: "UA-121636368-3"
 
 header:
@@ -17,7 +17,7 @@ header:
     - name: About
     - name: Research
     - name: Talks
-    - name: Codes 
+    # - name: Codes 
     # - name: Presentations
     - name: <a class ="page-link" href="/assets/CV.pdf">CV</a> 
 
@@ -26,8 +26,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: jiajie.chen at cims.nyu.edu
-      link: mailto:jiajie.chen@cims.nyu.edu      
+      value: fshao at stu.pku.edu.cn
+      link: mailto:fshao@stu.pku.edu.cn      
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
