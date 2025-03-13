@@ -1,8 +1,8 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+# profile_picture:
+ # src: /assets/img/profile-pic.jpg
+ # alt: website picture
 ---
 
 <div id="header" style="width: 105%;">
@@ -10,7 +10,7 @@ profile_picture:
 	<p>
 	<font size="+1">
 
-      I am a Courant Instructor at <a href="cims.nyu.edu"> Courant Institute, NYU</a>. I obtained my Ph.D. in Applied & Comput. Math. at Caltech, advised by Prof. <a href="http://users.cms.caltech.edu/~hou/"> Thomas Y. Hou</a>. Before coming to Caltech, I obtained my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs.
+      I am a fourth year Ph.D. student in Mathematics at <a href="http://english.math.pku.edu.cn/"> School of Mathematics, Peking University </a>, advised by Prof. <a href="http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_611.htm"> Dongyi Wei</a> and Prof. <a href="http://english.math.pku.edu.cn//Faculty/Facuity/ALL/old_site_Faculty_ALL_2_128.htm"> Zhifei Zhang</a>. Before coming to PKU, I obtained my B.S. in Mathematics at University of Science and Technology of China. My research focuses on singularity formation in nonlinear PDEs.
 
    <!-- <p> I am on the 2024-2025 academic job market.  </p> -->
 <!--   Update Nov 21, 2023  
